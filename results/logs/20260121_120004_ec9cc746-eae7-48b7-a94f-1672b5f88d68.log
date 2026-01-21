@@ -1,0 +1,10 @@
+2026-01-21 12:00:04,332 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - Initialized test framework
+2026-01-21 12:00:04,332 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - Starting data collection for ammeter=greenlee
+2026-01-21 12:00:04,333 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - samples=100, interval=0.100s, test_id=ec9cc746-eae7-48b7-a94f-1672b5f88d68
+2026-01-21 12:00:14,361 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - Completed data collection, samples_collected=100
+2026-01-21 12:00:14,361 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - Starting statistical analysis | samples=100, metrics=['mean', 'median', 'std_dev', 'min', 'max']
+2026-01-21 12:00:14,363 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - Completed statistical analysis | {'mean': 0.20421779108020346, 'median': 0.10312309453040078, 'std_dev': 0.3206918601077557, 'min': 0.017182244704868586, 'max': 2.625217216726498}
+2026-01-21 12:00:14,364 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - Starting advanced statistical analysis
+2026-01-21 12:00:14,368 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - Normality test | is_normal=False
+2026-01-21 12:00:14,369 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - Outlier detection | outliers_count=13
+2026-01-21 12:00:14,370 - test_ec9cc746-eae7-48b7-a94f-1672b5f88d68 - INFO - Advanced statistical analysis completed

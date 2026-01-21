@@ -1,0 +1,2 @@
+2026-01-21 12:00:15,214 - test_cea682e1-9b99-466e-9c0e-feb80253fcf5 - INFO - Initialized test framework
+2026-01-21 12:00:15,215 - test_cea682e1-9b99-466e-9c0e-feb80253fcf5 - ERROR - Unsupported ammeter type requested: invalid_type

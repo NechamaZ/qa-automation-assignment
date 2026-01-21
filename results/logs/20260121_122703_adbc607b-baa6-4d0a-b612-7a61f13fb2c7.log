@@ -1,0 +1,42 @@
+2026-01-21 12:27:03,916 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Initialized test framework
+2026-01-21 12:27:03,917 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting data collection for ammeter=greenlee
+2026-01-21 12:27:03,918 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - samples=100, interval=0.100s, test_id=adbc607b-baa6-4d0a-b612-7a61f13fb2c7
+2026-01-21 12:27:13,960 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Completed data collection, samples_collected=100
+2026-01-21 12:27:13,961 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting statistical analysis | samples=100, metrics=['mean', 'median', 'std_dev', 'min', 'max']
+2026-01-21 12:27:13,966 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Completed statistical analysis | {'mean': 0.648989021252287, 'median': 0.09967531712302168, 'std_dev': 3.278039660072521, 'min': 0.011515613067112105, 'max': 29.7078940381583}
+2026-01-21 12:27:13,967 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting advanced statistical analysis
+2026-01-21 12:27:13,980 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Normality test | is_normal=False
+2026-01-21 12:27:13,981 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Outlier detection | outliers_count=10
+2026-01-21 12:27:13,982 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Advanced statistical analysis completed
+2026-01-21 12:27:15,213 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting data collection for ammeter=entes
+2026-01-21 12:27:15,213 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - samples=100, interval=0.100s, test_id=adbc607b-baa6-4d0a-b612-7a61f13fb2c7
+2026-01-21 12:27:25,253 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Completed data collection, samples_collected=100
+2026-01-21 12:27:25,253 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting statistical analysis | samples=100, metrics=['mean', 'median', 'std_dev', 'min', 'max']
+2026-01-21 12:27:25,254 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Completed statistical analysis | {'mean': 69.60472390352726, 'median': 60.791075021711364, 'std_dev': 45.072197943479786, 'min': 7.444682159452999, 'max': 181.43791857946607}
+2026-01-21 12:27:25,255 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting advanced statistical analysis
+2026-01-21 12:27:25,261 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Normality test | is_normal=False
+2026-01-21 12:27:25,262 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Outlier detection | outliers_count=0
+2026-01-21 12:27:25,263 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Advanced statistical analysis completed
+2026-01-21 12:27:26,137 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting data collection for ammeter=circutor
+2026-01-21 12:27:26,137 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - samples=100, interval=0.100s, test_id=adbc607b-baa6-4d0a-b612-7a61f13fb2c7
+2026-01-21 12:27:36,173 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Completed data collection, samples_collected=100
+2026-01-21 12:27:36,174 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting statistical analysis | samples=100, metrics=['mean', 'median', 'std_dev', 'min', 'max']
+2026-01-21 12:27:36,175 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Completed statistical analysis | {'mean': 0.0306149582023115, 'median': 0.029106616122745694, 'std_dev': 0.014786666696005368, 'min': 0.004479893722578129, 'max': 0.06590764317560004}
+2026-01-21 12:27:36,175 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting advanced statistical analysis
+2026-01-21 12:27:36,184 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Normality test | is_normal=True
+2026-01-21 12:27:36,185 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Outlier detection | outliers_count=0
+2026-01-21 12:27:36,185 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Advanced statistical analysis completed
+2026-01-21 12:27:37,033 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - ============================================================
+2026-01-21 12:27:37,033 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Starting Accuracy Comparison Test
+2026-01-21 12:27:37,034 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - ============================================================
+2026-01-21 12:27:37,034 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Evaluating ammeter=greenlee | samples=100
+2026-01-21 12:27:37,034 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Ammeter summary | type=greenlee, mean=0.6490, std_dev=3.2780, cv=5.0510
+2026-01-21 12:27:37,035 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Evaluating ammeter=entes | samples=100
+2026-01-21 12:27:37,035 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Ammeter summary | type=entes, mean=69.6047, std_dev=45.0722, cv=0.6475
+2026-01-21 12:27:37,035 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Evaluating ammeter=circutor | samples=100
+2026-01-21 12:27:37,036 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Ammeter summary | type=circutor, mean=0.0306, std_dev=0.0148, cv=0.4830
+2026-01-21 12:27:37,037 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - ============================================================
+2026-01-21 12:27:37,038 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Accuracy Evaluation Summary
+2026-01-21 12:27:37,038 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - ============================================================
+2026-01-21 12:27:37,038 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Most reliable ammeter: circutor
+2026-01-21 12:27:37,038 - test_adbc607b-baa6-4d0a-b612-7a61f13fb2c7 - INFO - Accuracy scores: {'greenlee': {'mean': 0.648989021252287, 'std_dev': 3.278039660072521, 'cv': 5.050994011805049}, 'entes': {'mean': 69.60472390352726, 'std_dev': 45.072197943479786, 'cv': 0.6475451006163064}, 'circutor': {'mean': 0.0306149582023115, 'std_dev': 0.014786666696005368, 'cv': 0.48298830259023323}}

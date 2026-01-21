@@ -1,0 +1,10 @@
+2026-01-21 11:59:53,442 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - Initialized test framework
+2026-01-21 11:59:53,442 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - Starting data collection for ammeter=entes
+2026-01-21 11:59:53,443 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - samples=100, interval=0.100s, test_id=ea898c5f-3748-4536-b123-402e5e771d2b
+2026-01-21 12:00:03,471 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - Completed data collection, samples_collected=100
+2026-01-21 12:00:03,472 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - Starting statistical analysis | samples=100, metrics=['mean', 'median', 'std_dev', 'min', 'max']
+2026-01-21 12:00:03,473 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - Completed statistical analysis | {'mean': 71.10606665581152, 'median': 64.22658149233574, 'std_dev': 42.75546609885475, 'min': 9.013901508728793, 'max': 187.96760209259546}
+2026-01-21 12:00:03,473 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - Starting advanced statistical analysis
+2026-01-21 12:00:03,479 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - Normality test | is_normal=False
+2026-01-21 12:00:03,480 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - Outlier detection | outliers_count=3
+2026-01-21 12:00:03,481 - test_ea898c5f-3748-4536-b123-402e5e771d2b - INFO - Advanced statistical analysis completed

@@ -21,13 +21,9 @@ var/
 *.egg
 
 # Results
-results/logs/*
 !results/logs/.gitkeep
-results/measurements/*
 !results/measurements/.gitkeep
-results/plots/*
 !results/plots/.gitkeep
-results/analysis/*
 !results/analysis/.gitkeep
 
 # IDE

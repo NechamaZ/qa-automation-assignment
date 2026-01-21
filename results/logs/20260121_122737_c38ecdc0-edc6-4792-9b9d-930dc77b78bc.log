@@ -1,0 +1,10 @@
+2026-01-21 12:27:37,040 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - Initialized test framework
+2026-01-21 12:27:37,041 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - Starting data collection for ammeter=circutor
+2026-01-21 12:27:37,041 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - samples=100, interval=0.100s, test_id=c38ecdc0-edc6-4792-9b9d-930dc77b78bc
+2026-01-21 12:27:47,077 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - Completed data collection, samples_collected=100
+2026-01-21 12:27:47,078 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - Starting statistical analysis | samples=100, metrics=['mean', 'median', 'std_dev', 'min', 'max']
+2026-01-21 12:27:47,081 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - Completed statistical analysis | {'mean': 0.029651355851664563, 'median': 0.03137902970943777, 'std_dev': 0.01472939762026073, 'min': 0.0052950453978679365, 'max': 0.06695927460653059}
+2026-01-21 12:27:47,082 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - Starting advanced statistical analysis
+2026-01-21 12:27:47,086 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - Normality test | is_normal=False
+2026-01-21 12:27:47,087 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - Outlier detection | outliers_count=0
+2026-01-21 12:27:47,087 - test_c38ecdc0-edc6-4792-9b9d-930dc77b78bc - INFO - Advanced statistical analysis completed
