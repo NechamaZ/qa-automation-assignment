@@ -1,0 +1,526 @@
+{
+    "metadata": {
+        "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc",
+        "timestamp": "2026-01-21T12:27:47.966477",
+        "ammeter_type": "circutor",
+        "test_duration": 60,
+        "sampling_frequency": 10
+    },
+    "measurements": [
+        {
+            "timestamp": 1768991257.0479758,
+            "value": 0.03471384428466064,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991257.146914,
+            "value": 0.018227218949623425,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991257.247968,
+            "value": 0.02820302439132509,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991257.347126,
+            "value": 0.048876889988716976,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991257.4482994,
+            "value": 0.010812921221785832,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991257.5493643,
+            "value": 0.018121939591881884,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991257.648593,
+            "value": 0.03655627445208402,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991257.7492597,
+            "value": 0.020795331292095775,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991257.8495378,
+            "value": 0.055688882358379536,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991257.9506426,
+            "value": 0.032747194677599824,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.0505462,
+            "value": 0.03459979226957507,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.1497915,
+            "value": 0.017537813649933565,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.2505841,
+            "value": 0.007767759041867806,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.3517556,
+            "value": 0.008150584659839694,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.4507759,
+            "value": 0.02138167711795003,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.5521464,
+            "value": 0.02601311236520886,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.652467,
+            "value": 0.03997125306392568,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.7518966,
+            "value": 0.00973763599028345,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.8525894,
+            "value": 0.01614451264343999,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991258.953908,
+            "value": 0.013814938526170443,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.085595,
+            "value": 0.0401677689697903,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.16504,
+            "value": 0.05701179347409404,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.2635915,
+            "value": 0.034721562495215734,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.3625803,
+            "value": 0.0074092446626144145,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.4632502,
+            "value": 0.011718058521484661,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.5637696,
+            "value": 0.031509377004159775,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.6664732,
+            "value": 0.015738219862968788,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.766168,
+            "value": 0.03138523094624782,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.865785,
+            "value": 0.050552136877865056,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991259.965137,
+            "value": 0.029694924627348934,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.065437,
+            "value": 0.03743877240771353,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.1652539,
+            "value": 0.05334634303280293,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.2655196,
+            "value": 0.06695927460653059,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.3666315,
+            "value": 0.042851843592260075,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.4656403,
+            "value": 0.021108004129962738,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.5659213,
+            "value": 0.04364430587263896,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.665794,
+            "value": 0.05525296442736066,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.765846,
+            "value": 0.007176589548033516,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.865862,
+            "value": 0.014662952506795477,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991260.9665778,
+            "value": 0.031681565435401966,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.0663953,
+            "value": 0.04583289440124836,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.1674423,
+            "value": 0.026394395792339063,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.2676053,
+            "value": 0.03490278259021164,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.3673098,
+            "value": 0.03417700169828694,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.4668405,
+            "value": 0.034792155855528355,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.5671477,
+            "value": 0.009764379855057456,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.6676235,
+            "value": 0.04391380705176533,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.7672756,
+            "value": 0.01696324648842018,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.868812,
+            "value": 0.009253965365382377,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991261.9688091,
+            "value": 0.04542321708028562,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.0685763,
+            "value": 0.011637089931821151,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.169737,
+            "value": 0.01676151177291001,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.2696116,
+            "value": 0.03957148846084831,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.368486,
+            "value": 0.03403334351682073,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.4694216,
+            "value": 0.013614044124486155,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.5705028,
+            "value": 0.042055463703185976,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.6708815,
+            "value": 0.017580799858986265,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.7717738,
+            "value": 0.007684507157399439,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.871965,
+            "value": 0.02192096196850192,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991262.97345,
+            "value": 0.05348476287381147,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.0731163,
+            "value": 0.01404515387662612,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.1727774,
+            "value": 0.012375871596875705,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.2736278,
+            "value": 0.048146126775632105,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.3740034,
+            "value": 0.03543575826882329,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.4734888,
+            "value": 0.025707228933947734,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.5736785,
+            "value": 0.048284225354532674,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.6739368,
+            "value": 0.017876002162571205,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.7749534,
+            "value": 0.04481570589719021,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.874476,
+            "value": 0.04713305338245197,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991263.974384,
+            "value": 0.027130649595339038,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.074835,
+            "value": 0.03652943566389388,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.1754465,
+            "value": 0.04107103497583803,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.2748957,
+            "value": 0.01995303716773637,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.374421,
+            "value": 0.01885327355525732,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.4761841,
+            "value": 0.03137282847262771,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.5748014,
+            "value": 0.03938564407337462,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.674838,
+            "value": 0.048165314980694214,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.7766016,
+            "value": 0.04314901957730372,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.8760157,
+            "value": 0.033611921301892736,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991264.9754307,
+            "value": 0.025076654889115653,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.075907,
+            "value": 0.03745280303939616,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.1758087,
+            "value": 0.048915965196171786,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.276668,
+            "value": 0.03322354618464992,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.3771243,
+            "value": 0.029048928975929554,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.4780316,
+            "value": 0.027594460272438816,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.5786424,
+            "value": 0.026190051279951134,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.679938,
+            "value": 0.008019270478126887,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.778125,
+            "value": 0.0052950453978679365,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.8791726,
+            "value": 0.03395846383444521,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991265.9793162,
+            "value": 0.017800700230979724,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.0781665,
+            "value": 0.007327253654384903,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.180834,
+            "value": 0.04345328607817853,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.278884,
+            "value": 0.00650808341473718,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.3781729,
+            "value": 0.05052441664544984,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.479378,
+            "value": 0.048224731320019296,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.5805836,
+            "value": 0.020912303387767596,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.6785233,
+            "value": 0.040039526072486814,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.7798162,
+            "value": 0.014583729469934744,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.8792117,
+            "value": 0.04602991785654383,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        },
+        {
+            "timestamp": 1768991266.9787405,
+            "value": 0.018259808790337978,
+            "test_id": "c38ecdc0-edc6-4792-9b9d-930dc77b78bc"
+        }
+    ],
+    "analysis": {
+        "mean": 0.029651355851664563,
+        "median": 0.03137902970943777,
+        "std_dev": 0.01472939762026073,
+        "min": 0.0052950453978679365,
+        "max": 0.06695927460653059,
+        "skewness": 0.13661127322906463,
+        "kurtosis": -0.96380772212843,
+        "confidence_interval_95": [
+            0.026714000126876032,
+            0.03258871157645309
+        ],
+        "is_normal_distribution": false,
+        "outliers_count": 0
+    }
+}

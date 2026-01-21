@@ -1,0 +1,526 @@
+{
+    "metadata": {
+        "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7",
+        "timestamp": "2026-01-21T12:27:37.030224",
+        "ammeter_type": "circutor",
+        "test_duration": 60,
+        "sampling_frequency": 10
+    },
+    "measurements": [
+        {
+            "timestamp": 1768991246.1411939,
+            "value": 0.030023843734704327,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991246.2413375,
+            "value": 0.05497640593322919,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991246.3436677,
+            "value": 0.04266634557461974,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991246.4435174,
+            "value": 0.04556873021110839,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991246.5433056,
+            "value": 0.0368102069687773,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991246.643172,
+            "value": 0.019222037556764573,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991246.7453756,
+            "value": 0.022609195030854217,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991246.844358,
+            "value": 0.04855614467698302,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991246.945394,
+            "value": 0.008976482933025777,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.0460258,
+            "value": 0.037752103284233826,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.1451666,
+            "value": 0.0423190402127193,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.2457879,
+            "value": 0.021679298885844436,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.3461688,
+            "value": 0.02577900026942404,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.445359,
+            "value": 0.03549828781921671,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.5461075,
+            "value": 0.040602336081511904,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.645815,
+            "value": 0.028840882504006217,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.7460487,
+            "value": 0.029242185646016845,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.8477018,
+            "value": 0.025065840150743073,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991247.9479034,
+            "value": 0.015976861111050213,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.0486157,
+            "value": 0.01196857646501973,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.1475496,
+            "value": 0.007917481274715645,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.2483468,
+            "value": 0.020300523245272668,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.3477528,
+            "value": 0.043060387499740976,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.4476106,
+            "value": 0.01143990779385803,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.5485213,
+            "value": 0.0210965556402857,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.6498883,
+            "value": 0.029513051473410528,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.7551332,
+            "value": 0.009991445313930756,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.8525994,
+            "value": 0.02526919707048063,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991248.9525447,
+            "value": 0.01338129696190485,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.053331,
+            "value": 0.057136762055283244,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.154072,
+            "value": 0.019521459855195527,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.2537658,
+            "value": 0.03615840766747989,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.35385,
+            "value": 0.0217148465397018,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.4538183,
+            "value": 0.035510363463725055,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.5550387,
+            "value": 0.009454553465130895,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.6543746,
+            "value": 0.0353435780011125,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.7556388,
+            "value": 0.04673823629255994,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.8553824,
+            "value": 0.028971046599474543,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991249.9547472,
+            "value": 0.027871903313551133,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.0555513,
+            "value": 0.043128519874886785,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.1561618,
+            "value": 0.012586046211541808,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.2579737,
+            "value": 0.04069422128901987,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.356207,
+            "value": 0.05629046070634346,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.4567952,
+            "value": 0.020169297469260956,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.5588608,
+            "value": 0.010127651936970091,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.6607144,
+            "value": 0.0204089970206495,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.7591686,
+            "value": 0.02205975998302915,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.8597312,
+            "value": 0.03229836864038552,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991250.959799,
+            "value": 0.027934218567307243,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.0609412,
+            "value": 0.03749241717713739,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.159983,
+            "value": 0.04797809827143466,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.261248,
+            "value": 0.037270963471776594,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.361275,
+            "value": 0.008698188044397629,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.4634123,
+            "value": 0.03386604750724034,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.562746,
+            "value": 0.06590764317560004,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.663053,
+            "value": 0.027900052463085592,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.7618642,
+            "value": 0.018953542571606655,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.862067,
+            "value": 0.01392263645205221,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991251.96301,
+            "value": 0.029584267254134804,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.062085,
+            "value": 0.06437923295769721,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.162085,
+            "value": 0.014692235256002465,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.2627008,
+            "value": 0.03332888396000867,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.363755,
+            "value": 0.008834427759776563,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.4629865,
+            "value": 0.03553489731848068,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.5624943,
+            "value": 0.01899991912066005,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.6631613,
+            "value": 0.04293533722632448,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.7866418,
+            "value": 0.05065940328194832,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.8642685,
+            "value": 0.015765409251797452,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991252.9661038,
+            "value": 0.04948331599714296,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.0662596,
+            "value": 0.02616183467372153,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.1676571,
+            "value": 0.04259833838281477,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.2670684,
+            "value": 0.026329747509252897,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.3686767,
+            "value": 0.030359274349677536,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.4677885,
+            "value": 0.015149832750416741,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.5689821,
+            "value": 0.004479893722578129,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.669834,
+            "value": 0.013671336102149467,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.7688322,
+            "value": 0.04065047790387424,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.868746,
+            "value": 0.025206773106931715,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991253.9699664,
+            "value": 0.011470698113434657,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.0698967,
+            "value": 0.05404866945772017,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.1690896,
+            "value": 0.03953047951144252,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.2692919,
+            "value": 0.051386416656226605,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.3695357,
+            "value": 0.0212795548564018,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.4698844,
+            "value": 0.03789341829901233,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.571147,
+            "value": 0.05335824132569262,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.6702971,
+            "value": 0.008767577671569295,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.7708173,
+            "value": 0.025473786587369922,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.8708649,
+            "value": 0.024049017564713667,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991254.9719465,
+            "value": 0.03800357033057524,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.0719428,
+            "value": 0.05598717772367487,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.1728733,
+            "value": 0.016372186610950818,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.2732463,
+            "value": 0.051374640286052216,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.3732202,
+            "value": 0.011660745827452527,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.4737756,
+            "value": 0.04740585848055523,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.5743554,
+            "value": 0.03070892481304013,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.6731768,
+            "value": 0.0259739841715391,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.7733345,
+            "value": 0.06234049118695857,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.8743815,
+            "value": 0.04769930316756796,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991255.9739008,
+            "value": 0.02320795136425195,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        },
+        {
+            "timestamp": 1768991256.0788982,
+            "value": 0.03248634892916424,
+            "test_id": "adbc607b-baa6-4d0a-b612-7a61f13fb2c7"
+        }
+    ],
+    "analysis": {
+        "mean": 0.0306149582023115,
+        "median": 0.029106616122745694,
+        "std_dev": 0.014786666696005368,
+        "min": 0.004479893722578129,
+        "max": 0.06590764317560004,
+        "skewness": 0.3266843818557499,
+        "kurtosis": -0.7145103915412196,
+        "confidence_interval_95": [
+            0.02766618180358716,
+            0.03356373460103584
+        ],
+        "is_normal_distribution": true,
+        "outliers_count": 0
+    }
+}
